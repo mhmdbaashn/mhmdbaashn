@@ -8,6 +8,12 @@ Skills:  HTML / CSS/ JS / Python / django
 - 🌱 I’m currently learning Python & Django 
 
 
+
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/c9438484-fbbe-4ccd-a6b5-76494c9056c3)
+
+
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhmdbaashn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/mohammed-baashn-5bb758330/)  
 
 🛠️ **Languages and Tools :**
