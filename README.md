@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Mohammed
 
 
-Skills:  HTML / CSS/ JS / Python / django
 
 - 🌱 I’m currently learning Python & Django 
 
