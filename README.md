@@ -1,15 +1,17 @@
 
 
-
-# Hi there 👋, my name is Mohammed <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-
-
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966](https://github.com/user-attachments/assets/279e4976-9701-459e-a67f-463bb8fc4c40)
+  <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 
 
-- 🌱 I’m currently learning Python & Django                           https://camo.githubusercontent.com/f3b4654c95bc61462e67c74fdd40e0bf142418869046918dec5f1f2be69e6782/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966
+
+   # Hi there, my name is Mohammed <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
+
+- 👨‍💻 I’m currently Learning Python & Django .
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
 
 
 
