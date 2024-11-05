@@ -1,4 +1,4 @@
-## Hi I'm Mohammed 👋
+# Hi I'm Mohammed 👋
 
 <!--
 **mhmdbaashn/mhmdbaashn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
